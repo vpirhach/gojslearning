@@ -1,5 +1,5 @@
-# Save the content as a Markdown file for GitHub
-### Daily Learning Plan for JavaScript and Golang Improvement
+# Daily Learning Plan for JavaScript and Golang Improvement
+
 
 ---
 
