@@ -95,13 +95,15 @@ This roadmap provides a structured approach for mastering Golang, with focus on 
 
 1. **Official Documentation:**
    - [golang.org/doc](https://golang.org/doc).
-2. **Courses and Tutorials:**
+2. **Roadmap.sh**
+   - [roadmap.sh/golang](https://roadmap.sh/golang)
+3. **Courses and Tutorials:**
    - "Go Programming for Beginners" ([udemy.com](https://www.udemy.com)).
    - "Ultimate Go" by Ardan Labs ([ardanlabs.com](https://www.ardanlabs.com/)).
-3. **Books:**
+4. **Books:**
    - "The Go Programming Language" by Donovan and Kernighan.
    - "Concurrency in Go" by Katherine Cox-Buday.
-4. **Community:**
+5. **Community:**
    - Go Forum ([forum.golangbridge.org](https://forum.golangbridge.org)).
    - Gophers Slack ([invite.slack.golangbridge.org](https://invite.slack.golangbridge.org)).
 
